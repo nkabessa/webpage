@@ -19,7 +19,7 @@ Este projeto consiste em uma página HTML interativa que permite ao usuário ins
    ```bash
    cd soma-e-primo
    ```
-3. Abra o arquivo `index.html` no seu navegador.
+3. Abra o arquivo `main.html` no seu navegador.
 4. Digite dois números nos campos fornecidos.
 5. O resultado da soma será exibido abaixo dos campos, junto com a informação se é um número primo ou não.
 
